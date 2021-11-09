@@ -1,1 +1,0 @@
-# classe-em-php-para-transferencia-de-dados
